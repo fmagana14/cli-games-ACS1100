@@ -1,0 +1,24 @@
+{
+    "cards": [
+      {
+        "q": "who is QB1 on the cowboys?",
+        "a": "Dak Prescott"
+      },
+
+      {  "q": "how many eggs are in a dozen?",
+        "a": "12"
+      },
+      
+      
+    {
+      "q": "where are you from?",
+        "a": "San Diego"
+    },
+    
+  {
+    "q": "how old are you?",
+        "a": "20"
+        
+      }
+    ]
+  }
